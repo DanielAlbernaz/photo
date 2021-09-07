@@ -674,8 +674,7 @@
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script src="js/functions.js"></script>
-
+    <script src="{{ asset('assests/site/js/functions.js') }}"></script>
 	<script>
 		(function() {
 			var support = { transitions: Modernizr.csstransitions },
