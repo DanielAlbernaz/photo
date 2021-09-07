@@ -127,7 +127,7 @@
 									<span>Dark Collections</span>
 								</div>
 							</div>
-							<div class="swiper-slide-bg" style="background-image: url(' '{{ asset('assests/site/images/slider/4.jpg') }}');"></div>
+							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/4.jpg') }}');"></div>
 						</div>
 						<div class="swiper-slide dark">
 							<div class="container">
@@ -145,7 +145,7 @@
 									<span>Nature Collections</span>
 								</div>
 							</div>
-							<div class="swiper-slide-bg" style="background-image: url('demos/photography/images/slider/6.jpg');"></div>
+							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/6.jpg') }};"></div>
 						</div>
 					</div>
 					<div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
@@ -173,8 +173,8 @@
 					============================================= -->
 					<div class="row grid grid-container gutter-20">
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/1.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/1.jpg" alt="img01" />
+							<a href="{{ asset('assests/site/images/items/1.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/1.jpg') }}" alt="img01" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis recusandae beatae, possimus nam at facilis magni fugit atque. Facere saepe, inventore in. Sunt, laboriosam commodi distinctio sequi dolores quos numquam? <span>&mdash; Gary L. Francione</span></p>
@@ -191,8 +191,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/2.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/2.jpg" alt="img02" />
+							<a href="{{ asset('assests/site/images/items/2.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/2.jpg') }}" alt="img02" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -209,8 +209,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/3.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/3.jpg" alt="img03" />
+							<a href="{{ asset('assests/site/images/items/3.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/3.jpg') }}" alt="img03" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -227,8 +227,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/4.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/4.jpg" alt="img04" />
+							<a href="{{ asset('assests/site/images/items/4.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/4.jpg') }}" alt="img04" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -245,8 +245,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/5.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/5.jpg" alt="img05" />
+							<a href="{{ asset('assests/site/images/items/5.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/5.jpg') }}" alt="img05" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -263,8 +263,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/6.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/6.jpg" alt="img06" />
+							<a href="{{ asset('assests/site/images/items/6.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/6.jpg') }}" alt="img06" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -281,8 +281,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/7.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/7.jpg" alt="img07" />
+							<a href="{{ asset('assests/site/images/items/7.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/7.jpg') }}" alt="img07" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -299,8 +299,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/8.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/8.jpg" alt="img08" />
+							<a href="{{ asset('assests/site/images/items/8.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/8.jpg') }}" alt="img08" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -317,8 +317,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/9.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/9.jpg" alt="img09" />
+							<a href="{{ asset('assests/site/images/items/9.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/9.jpg') }}" alt="img09" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -335,8 +335,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/10.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/10.jpg" alt="img10" />
+							<a href="{{ asset('assests/site/images/items/10.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/10.jpg') }}" alt="img10" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -353,8 +353,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/11.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/11.jpg" alt="img11" />
+							<a href="{{ asset('assests/site/images/items/11.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/11.jpg') }}" alt="img11" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -371,8 +371,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/12.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/12.jpg" alt="img12" />
+							<a href="{{ asset('assests/site/images/items/12.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/12.jpg') }}" alt="img12" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -389,8 +389,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/13.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/13.jpg" alt="img13" />
+							<a href="{{ asset('assests/site/images/items/13.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/13.jpg') }}" alt="img13" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -407,8 +407,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/14.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/14.jpg" alt="img14" />
+							<a href="{{ asset('assests/site/images/items/14.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/14.jpg') }}" alt="img14" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -425,8 +425,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/15.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/15.jpg" alt="img15" />
+							<a href="{{ asset('assests/site/images/items/15.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/15.jpg') }}" alt="img15" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -443,8 +443,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/16.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/16.jpg" alt="img16" />
+							<a href="{{ asset('assests/site/images/items/16.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/16.jpg') }}" alt="img16" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -461,8 +461,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/17.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/17.jpg" alt="img17" />
+							<a href="{{ asset('assests/site/images/items/17.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/17.jpg') }}" alt="img17" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -479,8 +479,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/18.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/18.jpg" alt="img18" />
+							<a href="{{ asset('assests/site/images/items/18.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/18.jpg') }}" alt="img18" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
