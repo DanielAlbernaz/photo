@@ -497,8 +497,8 @@
 							</a>
 						</div>
 						<div class="grid-item col-12 col-sm-6 col-md-4 col-lg-3" data-size="1280x853">
-							<a href="demos/photography/images/items/19.jpg" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
-								<img src="demos/photography/images/items/19.jpg" alt="img19" />
+							<a href="{{ asset('assests/site/images/items/19.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
+								<img src="{{ asset('assests/site/images/items/19.jpg') }} " alt="img19" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
 									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
@@ -530,7 +530,7 @@
 					<div class="container clearfix">
 						<div class="row clearfix">
 							<div class="col-lg-4 col-md-5 offset-lg-1">
-								<img src="demos/photography/images/author.jpg" alt="img-author" style="border: 8px solid #333;">
+								<img src="{{ asset('assests/site/images/author.jpg') }}" alt="img-author" style="border: 8px solid #333;">
 							</div>
 							<div class="col-lg-5 col-md-7 offset-lg-1">
 								<div class="topmargin d-block d-md-none d-lg-none d-xl-block"></div>
@@ -559,7 +559,7 @@
 							<div class="col-md-3 center">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/1.jpg" alt="img01" />
+										<img src="{{ asset('assests/site/images/album/1.jpg') }}" alt="img01" />
 									</div>
 									<h5 class="ls1 fw-normal">Wedding</h5>
 								</a>
@@ -567,7 +567,7 @@
 							<div class="col-md-3 center">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/2.jpg" alt="img02" />
+										<img src="{{ asset('assests/site/images/album/2.jpg') }}" alt="img02" />
 									</div>
 									<h5 class="ls1 fw-normal">Nature</h5>
 								</a>
@@ -575,7 +575,7 @@
 							<div class="col-md-3 center">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/3.jpg" alt="img03" />
+										<img src="{{ asset('assests/site/images/album/3.jpg') }}" alt="img03" />
 									</div>
 									<h5 class="ls1 fw-normal">Animal</h5>
 								</a>
@@ -583,7 +583,7 @@
 							<div class="col-md-3 center">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/4.jpg" alt="img04" />
+										<img src="{{ asset('assests/site/images/album/4.jpg') }}" alt="img04" />
 									</div>
 									<h5 class="ls1 fw-normal">Model</h5>
 								</a>
@@ -591,7 +591,7 @@
 							<div class="col-md-3 center topmargin-sm">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/5.jpg" alt="img05" />
+										<img src="{{ asset('assests/site/images/album/5.jpg') }}" alt="img05" />
 									</div>
 									<h5 class="ls1 fw-normal">Bikini</h5>
 								</a>
@@ -599,7 +599,7 @@
 							<div class="col-md-3 center topmargin-sm">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/6.jpg" alt="img06" />
+										<img src="{{ asset('assests/site/images/album/6.jpg') }}" alt="img06" />
 									</div>
 									<h5 class="ls1 fw-normal">Home</h5>
 								</a>
@@ -607,7 +607,7 @@
 							<div class="col-md-3 center topmargin-sm">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/7.jpg" alt="img07" />
+										<img src="{{ asset('assests/site/images/album/7.jpg') }}" alt="img07" />
 									</div>
 									<h5 class="ls1 fw-normal">Sea</h5>
 								</a>
@@ -615,7 +615,7 @@
 							<div class="col-md-3 center topmargin-sm">
 								<a href="#">
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
-										<img src="demos/photography/images/album/8.jpg" alt="img08" />
+										<img src="{{ asset('assests/site/images/album/8.jpg') }}" alt="img08" />
 									</div>
 									<h5 class="ls1 fw-normal">Tattoo</h5>
 								</a>
