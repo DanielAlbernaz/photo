@@ -33,7 +33,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Photography | Canvas</title>
+	<title> Photonew </title>
 
 </head>
 
@@ -43,7 +43,7 @@
 	============================================= -->
 	<div id="wrapper" class="clearfix">
 
-		<div class="co-name d-none d-lg-block center"><img src="{{ asset('assests/site/images/logo-dark@2x.png') }}" alt="Canvas Logo"></div>
+		<div class="co-name d-none d-lg-block center"><img src="{{ asset('assests/site/images/Photonew.png') }}" alt="Canvas Logo"></div>
 
 		<!-- Header
 		============================================= -->
@@ -52,12 +52,12 @@
 				<div class="container">
 					<div class="header-row align-items-lg-start">
 
-						<div class="header-title d-none d-lg-block mt-4">Canvas Photography</div>
+						<div class="header-title d-none d-lg-block mt-4">Fotografia</div>
 
 						<!-- Logo
 							============================================= -->
 						<div id="logo" class="d-block d-lg-none d-xl-block">
-							<a href="demo-photography.html" class="standard-logo" data-dark-logo="{{ asset('assests/site/images/logo-dark.png') }}"><img src="{{ asset('assests/site/images/logo.png') }}" alt="Canvas Logo"></a>
+							<a href="demo-photography.html" class="standard-logo" data-dark-logo="{{ asset('assests/site/images/Photonew.png') }}"><img src="{{ asset('assests/site/images/Photonew.png') }}" alt="Canvas Logo"></a>
 							<a href="demo-photography.html" class="retina-logo" data-dark-logo="{{ asset('assests/site/images/logo-dark@2x.png') }}"><img src="{{ asset('assests/site/images/logo@2x.png') }}" alt="Canvas Logo"></a>
 						</div><!-- #logo end -->
 
@@ -71,9 +71,9 @@
 							<ul class="menu-container">
 								<li class="menu-item current"><a class="menu-link" href="#"><div>Home</div></a></li>
 								<li class="menu-item"><a class="menu-link" href="#"><div>Explore</div></a></li>
-								<li class="menu-item"><a class="menu-link" href="#"><div>Pricing</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="#"><div>Preços</div></a></li>
 								<li class="menu-item"><a class="menu-link" href="#"><div>FAQs</div></a></li>
-								<li class="menu-item"><a class="menu-link" href="#"><div>Gallery</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="#"><div>Galeria</div></a></li>
 							</ul>
 						</nav><!-- #primary-menu end -->
 
@@ -97,7 +97,7 @@
 							<div class="container">
 								<div class="slider-text">
 									<h3>Drinking Water</h3>
-									<span>Summer Collection</span>
+									<span>Coleção de Verão</span>
 								</div>
 							</div>
 							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/1.jpg') }}');"></div>
@@ -106,7 +106,7 @@
 							<div class="container">
 								<div class="slider-text">
 									<h3>FireWorks Focus</h3>
-									<span>Function Pictures</span>
+									<span>Coleção de Fotos</span>
 								</div>
 							</div>
 							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/2.jpg') }}');"></div>
@@ -115,7 +115,7 @@
 							<div class="container">
 								<div class="slider-text">
 									<h3>Fashion Photography</h3>
-									<span>Black &amp; White Collections</span>
+									<span>Coleção Preto &amp; Branco </span>
 								</div>
 							</div>
 							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/3.jpg') }}');"></div>
@@ -124,7 +124,7 @@
 							<div class="container">
 								<div class="slider-text">
 									<h3>Showing Camera</h3>
-									<span>Dark Collections</span>
+									<span>Coleção Dark</span>
 								</div>
 							</div>
 							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/4.jpg') }}');"></div>
@@ -133,7 +133,7 @@
 							<div class="container">
 								<div class="slider-text">
 									<h3>Model Photography</h3>
-									<span>Fashion Collections</span>
+									<span>Coleção Moda</span>
 								</div>
 							</div>
 							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/5.jpg') }}');"></div>
@@ -142,10 +142,10 @@
 							<div class="container">
 								<div class="slider-text">
 									<h3>Taking Snap</h3>
-									<span>Nature Collections</span>
+									<span>Coleção Natureza</span>
 								</div>
 							</div>
-							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/6.jpg') }};"></div>
+							<div class="swiper-slide-bg" style="background-image: url('{{ asset('assests/site/images/slider/6.jpg') }}');"></div>
 						</div>
 					</div>
 					<div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
@@ -165,8 +165,8 @@
 			<div class="content-wrap">
 				<div class="container dark clearfix">
 					<div class="heading-block dark center border-0">
-						<h3>Recent Images</h3>
-						<span>Click on the photography grids</span>
+						<h3>Imagens Recentes</h3>
+						<span>Clique nas grades de fotografia</span>
 					</div>
 
 					<!-- Grid Items
@@ -177,7 +177,7 @@
 								<img src="{{ asset('assests/site/images/items/1.jpg') }}" alt="img01" />
 								<div class="description description-grid">
 									<h3>Mother's Love</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis recusandae beatae, possimus nam at facilis magni fugit atque. Facere saepe, inventore in. Sunt, laboriosam commodi distinctio sequi dolores quos numquam? <span>&mdash; Gary L. Francione</span></p>
+									<p>Nós nos esquecemos que o ciclo da água e o ciclo da vida são, na verdade, um só. <span>&mdash; Gary L. Francione</span></p>
 									<div class="details">
 										<ul>
 											<li><i class="icon icon-line-camera"></i><span>Canon PowerShot S95</span></li>
@@ -194,8 +194,8 @@
 							<a href="{{ asset('assests/site/images/items/2.jpg') }}" class="img-wrap img-grayscale" data-animate="fadeInUp" onclick="return false;">
 								<img src="{{ asset('assests/site/images/items/2.jpg') }}" alt="img02" />
 								<div class="description description-grid">
-									<h3>Mother's Love</h3>
-									<p>Every time you drink a glass of milk or eat a piece of cheese, you harm a mother. Please go vegan. <span>&mdash; Gary L. Francione</span></p>
+									<h3>Radical</h3>
+									<p>A vida é como uma rampa de skate. Sobe e desce, mas é quando a gente tá lá em baixo que pegamos impulso! <span>&mdash; Marcus A. Argent</span></p>
 									<div class="details">
 										<ul>
 											<li><i class="icon icon-line-camera"></i><span>Canon PowerShot S95</span></li>
@@ -535,11 +535,11 @@
 							<div class="col-lg-5 col-md-7 offset-lg-1">
 								<div class="topmargin d-block d-md-none d-lg-none d-xl-block"></div>
 								<div class="heading-block border-0">
-									<h2 class="ls5">Gianpaolo Rocher</h2>
-									<span class="fw-light" style="font-size: 20px; color: #DDD;">Taking an image, freezing a moment, reveals how rich reality truly is..</span>
+									<h2 class="ls5">Photonew</h2>
+									<span class="fw-light" style="font-size: 20px; color: #DDD;">Tornando momentos inesquecíveis, com um toque de arte.</span>
 								</div>
-								<p class="text-muted">Continually iterate installed base ROI whereas standardized bandwidth. Synergistically whiteboard one-to-one architectures and inexpensive architectures. impactful ROI and one-to-one schemas. Proactively recaptiualize 24/365 customer service after orthogonal total linkage.</p>
-								<a href="#" class="button button-circle button-light button-white">Contact Us</a>
+								<p class="text-muted">Nós somos apaixonados por pessoas e temos como missão escrever histórias através do nosso olhar, mancando e fazendo parte desse momento.</p>
+								<a href="#" class="button button-circle button-light button-white">Entre em contato</a>
 							</div>
 						</div>
 					</div>
@@ -552,8 +552,8 @@
 				<div class="section bg-transparent footer-stick clearfix">
 					<div class="container clearfix">
 						<div class="heading-block dark center border-0">
-							<h3 class="ls1">Pictures By Album</h3>
-							<span>Globally re-engineer transparent materials,</span>
+							<h3 class="ls1">Albuns e Fotos</h3>
+							<span>Ensaios fotográficos</span>
 						</div>
 						<div class="row dark clearfix">
 							<div class="col-md-3 center">
@@ -561,7 +561,7 @@
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
 										<img src="{{ asset('assests/site/images/album/1.jpg') }}" alt="img01" />
 									</div>
-									<h5 class="ls1 fw-normal">Wedding</h5>
+									<h5 class="ls1 fw-normal">Casamento</h5>
 								</a>
 							</div>
 							<div class="col-md-3 center">
@@ -569,7 +569,7 @@
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
 										<img src="{{ asset('assests/site/images/album/2.jpg') }}" alt="img02" />
 									</div>
-									<h5 class="ls1 fw-normal">Nature</h5>
+									<h5 class="ls1 fw-normal">Natureza</h5>
 								</a>
 							</div>
 							<div class="col-md-3 center">
@@ -585,7 +585,7 @@
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
 										<img src="{{ asset('assests/site/images/album/4.jpg') }}" alt="img04" />
 									</div>
-									<h5 class="ls1 fw-normal">Model</h5>
+									<h5 class="ls1 fw-normal">Modelo</h5>
 								</a>
 							</div>
 							<div class="col-md-3 center topmargin-sm">
@@ -601,7 +601,7 @@
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
 										<img src="{{ asset('assests/site/images/album/6.jpg') }}" alt="img06" />
 									</div>
-									<h5 class="ls1 fw-normal">Home</h5>
+									<h5 class="ls1 fw-normal">Casa</h5>
 								</a>
 							</div>
 							<div class="col-md-3 center topmargin-sm">
@@ -609,7 +609,7 @@
 									<div style="margin: 0 auto;max-width: 235px; padding: 25px; background: url('demos/photography/images/album-bg.svg') no-repeat center center; background-size: 100%;">
 										<img src="{{ asset('assests/site/images/album/7.jpg') }}" alt="img07" />
 									</div>
-									<h5 class="ls1 fw-normal">Sea</h5>
+									<h5 class="ls1 fw-normal">Mar</h5>
 								</a>
 							</div>
 							<div class="col-md-3 center topmargin-sm">
@@ -637,7 +637,7 @@
 				<div class="container clearfix">
 
 					<div class="w-100 text-center topmargin-sm">
-						<p class="mb-3">&copy; Canvas Inc. 2020. All Rights Reserved.</p>
+						<p class="mb-3">&copy; ALBERNCAMP Inc. 2021. All Rights Reserved.</p>
 						<a href="https://facebook.com/semicolonweb" target="_blank" class="social-icon inline-block si-small si-borderless si-rounded si-facebook">
 							<i class="icon-facebook"></i>
 							<i class="icon-facebook"></i>
